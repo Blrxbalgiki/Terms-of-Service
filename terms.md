@@ -2,7 +2,7 @@
 
 <p>Last updated: September 16, 2026</p>
 
-<p>By using the Discord bot called [Bot Name], you agree to these Terms of Service.</p>
+<p>By using the Discord bot called [Shikimori Security], you agree to these Terms of Service.</p>
 
 <h2>Use of the Bot</h2>
 <p>The bot provides the features and commands announced within Discord. You must not use it for abuse, fraud, or anything that violates Discord’s Terms of Service, policies, or applicable laws.</p>
@@ -17,4 +17,4 @@
 <p>We may update these Terms when needed. Continuing to use the bot after an update means you accept the revised Terms.</p>
 
 <h2>Contact</h2>
-<p>For questions, contact: [Your support server link or email address]</p>
+<p>For questions, contact: [https://discord.gg/qwUVxsSy2t]</p>
